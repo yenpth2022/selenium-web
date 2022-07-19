@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba804953-44da-4819-8c41-84fe3c587f41" name="Changes" comment="" />
+    <list default="true" id="ba804953-44da-4819-8c41-84fe3c587f41" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/api_learning/ElementDisplaying.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/api_learning/FormInteraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/api_learning/FormInteractionWithMultipleMatching.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/api_learning/LinkTextInteraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/api_learning/PageTitleAndCurrentURL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/drivers/DriverFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,9 +53,64 @@
       <recent name="F:\selenium-web\src\test\resources\drivers" />
       <recent name="F:\selenium-web\src\test\java" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="api_learning" />
+    </key>
   </component>
-  <component name="RunManager">
-    <configuration name="LaunchBrowser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.api_learning.FormInteraction">
+    <configuration name="LinkTextInteraction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="api_learning.LinkTextInteraction" />
+      <module name="selenium-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="api_learning.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PageTitleAndCurrentURL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="api_learning.PageTitleAndCurrentURL" />
+      <module name="selenium-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="api_learning.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="api_learning.FormInteraction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="api_learning.FormInteraction" />
+      <module name="selenium-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="api_learning.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="api_learning.FormInteractionWithMultipleMatching" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="api_learning.FormInteractionWithMultipleMatching" />
+      <module name="selenium-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="api_learning.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="api_learning.LaunchBrowser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="api_learning.LaunchBrowser" />
       <module name="selenium-web" />
       <extension name="coverage">
@@ -62,7 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LaunchBrowser" />
+        <item itemvalue="Application.api_learning.FormInteraction" />
+        <item itemvalue="Application.PageTitleAndCurrentURL" />
+        <item itemvalue="Application.LinkTextInteraction" />
+        <item itemvalue="Application.api_learning.FormInteractionWithMultipleMatching" />
+        <item itemvalue="Application.api_learning.LaunchBrowser" />
       </list>
     </recent_temporary>
   </component>
