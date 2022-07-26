@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba804953-44da-4819-8c41-84fe3c587f41" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/api_learning/Dropdown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/api_learning/IFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/api_learning/JsAlerts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/api_learning/MouseHoverAndNarrowDownSearchingScope.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/support/ui/SelectEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/url/Urls.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/api_learning/Dropdown.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/api_learning/IFrame.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/api_learning/JsAlerts.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/api_learning/MouseHoverAndNarrowDownSearchingScope.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/support/ui/SelectEx.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/url/Urls.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ba804953-44da-4819-8c41-84fe3c587f41" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
