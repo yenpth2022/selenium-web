@@ -5,12 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba804953-44da-4819-8c41-84fe3c587f41" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/api_learning/ElementDisplaying.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/api_learning/FormInteraction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/api_learning/FormInteractionWithMultipleMatching.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/api_learning/LinkTextInteraction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/api_learning/PageTitleAndCurrentURL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/drivers/DriverFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/api_learning/Dropdown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/api_learning/IFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/api_learning/JsAlerts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/api_learning/MouseHoverAndNarrowDownSearchingScope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/support/ui/SelectEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/url/Urls.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/api_learning/Dropdown.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/api_learning/IFrame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/api_learning/JsAlerts.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/api_learning/MouseHoverAndNarrowDownSearchingScope.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/support/ui/SelectEx.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/url/Urls.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +27,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -57,9 +64,9 @@
       <recent name="api_learning" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.api_learning.FormInteraction">
-    <configuration name="LinkTextInteraction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="api_learning.LinkTextInteraction" />
+  <component name="RunManager" selected="Application.JsAlerts">
+    <configuration name="Dropdown" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="api_learning.Dropdown" />
       <module name="selenium-web" />
       <extension name="coverage">
         <pattern>
@@ -71,8 +78,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PageTitleAndCurrentURL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="api_learning.PageTitleAndCurrentURL" />
+    <configuration name="IFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="api_learning.IFrame" />
+      <module name="selenium-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="api_learning.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JsAlerts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="api_learning.JsAlerts" />
+      <module name="selenium-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="api_learning.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MouseHoverAndNarrowDownSearchingScope" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="api_learning.MouseHoverAndNarrowDownSearchingScope" />
       <module name="selenium-web" />
       <extension name="coverage">
         <pattern>
@@ -97,39 +130,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="api_learning.FormInteractionWithMultipleMatching" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="api_learning.FormInteractionWithMultipleMatching" />
-      <module name="selenium-web" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="api_learning.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="api_learning.LaunchBrowser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="api_learning.LaunchBrowser" />
-      <module name="selenium-web" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="api_learning.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JsAlerts" />
+        <item itemvalue="Application.MouseHoverAndNarrowDownSearchingScope" />
+        <item itemvalue="Application.IFrame" />
+        <item itemvalue="Application.Dropdown" />
         <item itemvalue="Application.api_learning.FormInteraction" />
-        <item itemvalue="Application.PageTitleAndCurrentURL" />
-        <item itemvalue="Application.LinkTextInteraction" />
-        <item itemvalue="Application.api_learning.FormInteractionWithMultipleMatching" />
-        <item itemvalue="Application.api_learning.LaunchBrowser" />
       </list>
     </recent_temporary>
   </component>
